@@ -284,3 +284,13 @@ namespace ConversorUnidades
         private void lblDe_Click(object sender, EventArgs e) { }
     }
 }
+
+
+
+
+
+
+
+
+
+
